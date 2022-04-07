@@ -10,5 +10,6 @@ Puede ser descargado del siguiente link: https://brave.com/gbe977
 - Si usas youtube, no tenes las publicidades molestas cada 5 minutos (Sería como un youtube premium). 
 - Agrego esto desde branch1
 - Desde branch2
+- .Cambio de ft1
 
 
