@@ -8,6 +8,6 @@ Puede ser descargado del siguiente link: https://brave.com/gbe977
 - Elimima publicidad y bloquea trafico innecesario en websites (Ideal para usarlo con el celu y ahorrar $$$ del paquete de datos). 
 - Se pueden navegar libremente algunos sitios sin necesidad de haber pagado una subscripcion. (Nacion, Clarin, etc)
 - Si usas youtube, no tenes las publicidades molestas cada 5 minutos (Sería como un youtube premium). 
-- Agrego esto
+- Agrego esto desde branch1
 
 
